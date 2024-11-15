@@ -1,0 +1,6 @@
+html {
+    height: 100%;
+    background-image: url('us.jpg');
+    background-size: cover;
+    background-position: center;
+}
